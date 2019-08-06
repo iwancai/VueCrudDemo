@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Ahmad Albar"
+    },
+    {
+      "id": 1,
+      "name": "Soekarno"
+    },
+    {
+      "id": 2,
+      "name": "Soeharto"
+    },
+    {
+      "id": 3,
+      "name": "Komeng"
+    }
+  ]
+}
