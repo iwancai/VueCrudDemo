@@ -1,8 +1,19 @@
-# democrud
+## Vue Demo CRUD
 
 ## Project setup
 ```
 yarn install
+```
+
+## install json server
+```
+yarn add global json-server
+
+```
+## Run db server
+```
+json-server db.json
+
 ```
 
 ### Compiles and hot-reloads for development
